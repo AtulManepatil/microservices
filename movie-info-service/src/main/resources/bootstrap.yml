@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: movie-info-service
+  cloud:
+    vault:
+      token: 00000000-0000-0000-0000-000000000000
+      scheme: http
+      kv:
+        enabled: true
+    bus:
+      enabled: true
+    config:
+      uri: http://localhost:8888
+      enabled: true
+
