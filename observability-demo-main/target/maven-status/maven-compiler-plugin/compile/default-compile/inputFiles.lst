@@ -1,7 +1,0 @@
-D:\microservice-application\spring-boot-microservices-workshop\observability-demo-main\src\main\java\com\javatechie\repository\ProductRepository.java
-D:\microservice-application\spring-boot-microservices-workshop\observability-demo-main\src\main\java\com\javatechie\service\ProductService.java
-D:\microservice-application\spring-boot-microservices-workshop\observability-demo-main\src\main\java\com\javatechie\aspect\PerformanceTrackerHandler.java
-D:\microservice-application\spring-boot-microservices-workshop\observability-demo-main\src\main\java\com\javatechie\entity\Product.java
-D:\microservice-application\spring-boot-microservices-workshop\observability-demo-main\src\main\java\com\javatechie\controller\ProductController.java
-D:\microservice-application\spring-boot-microservices-workshop\observability-demo-main\src\main\java\com\javatechie\JpaDemoApplication.java
-D:\microservice-application\spring-boot-microservices-workshop\observability-demo-main\src\main\java\com\javatechie\aspect\ObservationAspectConfig.java
